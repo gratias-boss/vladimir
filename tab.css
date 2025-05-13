@@ -1,0 +1,41 @@
+td 
+{ 
+border: 1px solid black; 
+} 
+.bordure{border-collapse: collapse;}
+.styl{
+	border-collapse: collapse;
+	width: 500px;
+	border-color: darkred;
+	color: lightyellow;
+}
+.rot{
+    transform: rotate(-70deg);
+}
+body{
+	background-image: url(fond.png);
+}
+.f{
+	color: darkred;
+}
+.b{
+	background-color: gray ;
+}
+.n{
+	color: blueviolet;
+}
+
+.ge{
+	border-collapse: collapse;
+	display:inline-block;
+	margin-right: 20px;
+}
+.flex{
+	display:inline-block;
+}
+.tail{
+	line-height: 29px;
+	border-collapse: collapse;
+	display:inline-block;
+	margin-right: 20px;
+}
